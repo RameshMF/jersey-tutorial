@@ -69,7 +69,7 @@
 </ul>
 </div>
 <div>
-<span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="background-color: white;">All the code of this Jersey Rest Developer Guide is available over on&nbsp;</span><a href="https://github.com/RameshMF/jersey-rest-api-developer-guide" style="background: rgb(255, 255, 255); color: #0064c1;" target="_blank">Github</a></span><br>
+
 <span style="font-family: &quot;verdana&quot; , sans-serif;"><br></span>
 <b><span style="font-family: &quot;verdana&quot; , sans-serif;">Important Java Developer Guides</span></b><br>
 <div style="text-align: left;">
